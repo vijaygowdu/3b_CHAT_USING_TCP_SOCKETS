@@ -69,9 +69,10 @@ start_client()
 ```
 ## OUPUT:
 ## Server:
-![server 2](https://github.com/SUBBIAH1904/3b_CHAT_USING_TCP_SOCKETS/assets/147473604/d2591855-6acd-4919-b2ea-576b16ce3f48)
+![image](https://github.com/user-attachments/assets/da6d1011-37f2-46ba-8800-80cb144101f9)
 ## Client:
-![client 2](https://github.com/SUBBIAH1904/3b_CHAT_USING_TCP_SOCKETS/assets/147473604/e7e6b228-4b03-4cb3-89a7-a4254be93126)
+![Screenshot 2024-10-22 084916](https://github.com/user-attachments/assets/6f1ae393-e8fd-4187-96e1-9df73ab49536)
+
 ## RESULT
 Thus, the python program for creating Chat using TCP Sockets Links was successfully 
 created and executed.
